@@ -44,7 +44,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/jay-shukla)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=react)](#)
-[![Email](https://img.shields.io/badge/Email-Red?style=for-the-badge\&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Red?style=for-the-badge\&logo=gmail)](mailto:shuklajay529@gmail.com)
 
 ---
 
