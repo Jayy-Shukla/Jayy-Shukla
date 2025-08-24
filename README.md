@@ -1,16 +1,51 @@
-## Hi there 👋
+# 💫 About Me
 
-<!--
-**Jayy-Shukla/Jayy-Shukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m **Jay Shukla**
+🎓 Master’s in Information Systems | 💻 Software Developer | 🌐 Based in Canada
 
-Here are some ideas to get you started:
+* 🚀 1+ year of experience in **software development**
+* 🧩 Skilled in **Python, JavaScript (React/Node/Angular), .NET, SQL, MongoDB**
+* ☁️ Knowledgeable in **AWS & Azure**
+* 🤖 Interested in **AI/ML, backend engineering, and cloud-native apps**
+* 🛠 Currently building & experimenting with **AI agents and full-stack apps**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# ⚡ Tech Stack
+
+**Languages & Frameworks:**
+`Python` · `JavaScript` · `TypeScript` · `C#` · `PHP` · `React` · `Angular` · `.NET`
+
+**Databases:**
+`MySQL` · `MongoDB`
+
+**Cloud & Tools:**
+`AWS` · `Azure` · `Docker` · `Git` · `Jupyter`
+
+---
+
+# 📈 GitHub Stats
+
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-shukla\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-shukla\&layout=compact\&theme=radical)
+
+---
+
+# 🌟 Featured Projects
+
+🔹 [**AI-Powered Chatbot**](#) – LLM-based chatbot using Hugging Face + LangChain
+🔹 [**Full-Stack Task Manager**](#) – React + Node + MongoDB app with authentication
+🔹 [**Data Pipeline in Python**](#) – Automated ETL pipeline with AWS integration
+
+---
+
+# 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/jay-shukla)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=react)](#)
+[![Email](https://img.shields.io/badge/Email-Red?style=for-the-badge\&logo=gmail)](mailto:your.email@example.com)
+
+---
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
