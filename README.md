@@ -31,7 +31,7 @@
 
 # 🌟 Featured Projects
 
-🔹 [**AI-Powered Chatbot**](#) – LLM-based chatbot using Hugging Face + LangChain
+🔹 [**E-Commerce Recommendation System**](#) – LLM-based chatbot using Hugging Face + LangChain
 🔹 [**Full-Stack Task Manager**](#) – React + Node + MongoDB app with authentication
 🔹 [**Data Pipeline in Python**](#) – Automated ETL pipeline with AWS integration
 
