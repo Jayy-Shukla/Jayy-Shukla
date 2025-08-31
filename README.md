@@ -32,8 +32,8 @@
 # 🌟 Featured Projects
 
 🔹 [**E-Commerce Recommendation System**](#) – LLM-based chatbot using Hugging Face + LangChain
-🔹 [**Full-Stack Task Manager**](#) – React + Node + MongoDB app with authentication
-🔹 [**Data Pipeline in Python**](#) – Automated ETL pipeline with AWS integration
+🔹 [**SMS Spam Collection System Using NLP**](#) – React + Node + MongoDB app with authentication
+🔹 [**Amazon Product Web Scrapping and Visualization**](#) – Automated ETL pipeline with AWS integration
 
 ---
 
