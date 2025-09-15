@@ -33,9 +33,9 @@
 
 🔹 [**E-Commerce Recommendation System**](https://github.com/Jayy-Shukla/E-Commerce-Recommendation-System) – Built an E-Commerce Recommendation System in Jupyter Notebook using Python, Pandas, NumPy, and machine learning algorithms on a Kaggle dataset, with step-by-step workflow documentation.
 
-🔹 [**SMS Spam Collection System Using NLP**](#) – Built an SMS Spam Classification System in Jupyter Notebook using Python, Pandas, NumPy, NLTK, and Scikit-learn, leveraging TensorFlow/Keras with LSTM architecture to train and evaluate models on a spam dataset.
+🔹 [**SMS Spam Collection System Using NLP**](https://github.com/Jayy-Shukla/SMS-Spam-Collection-System-Using-NLP) – Built an SMS Spam Classification System in Jupyter Notebook using Python, Pandas, NumPy, NLTK, and Scikit-learn, leveraging TensorFlow/Keras with LSTM architecture to train and evaluate models on a spam dataset.
 
-🔹 [**Amazon Product Web Scrapping and Visualization**](#) – Developed a Scrapy spider in Python to collect Amazon laptop product data, cleaned datasets with Pandas, and created rich visual analyses in Matplotlib and Seaborn in a Jupyter Notebook.
+🔹 [**Amazon Product Web Scrapping and Visualization**](https://github.com/Jayy-Shukla/Amazon-Web-Scraping-and-Visualization) – Developed a Scrapy spider in Python to collect Amazon laptop product data, cleaned datasets with Pandas, and created rich visual analyses in Matplotlib and Seaborn in a Jupyter Notebook.
 
 ---
 
