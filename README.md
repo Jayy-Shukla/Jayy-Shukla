@@ -11,16 +11,29 @@
 
 ---
 
-# ⚡ Tech Stack
+### 🛠️ Technical Skills  
 
-**Languages & Frameworks:**
-`Python` · `JavaScript` · `TypeScript` · `C#` · `PHP` · `React` · `Angular` · `.NET`
+**Programming & Frameworks:**  
+Java, Spring Framework, Hibernate, Python, C#, JavaScript, TypeScript, Kotlin, PHP, SQL, LangChain  
 
-**Databases:**
-`MySQL` · `MongoDB`
+**UI & Frontend Development:**  
+Next.js, React Native, Responsive Design, HTML5, CSS3, Bootstrap  
 
-**Cloud & Tools:**
-`AWS` · `Azure` · `Docker` · `Git` · `Jupyter`
+**Mobile Development:**  
+Flutter (cross-platform mobile apps)  
+
+**Workflow & CI/CD Tools:**  
+Git, GitFlow, Jenkins, GitHub Actions, Confluence, JIRA, Agile/SCRUM  
+
+**Cloud & DevOps:**  
+AWS (S3, Lambda, Glue, Athena, API Gateway), Azure (Databricks), Docker, Kubernetes, CI/CD Automation  
+
+**Dashboarding & Visualization:**  
+Power BI, Power Apps, Power Automate, Tableau  
+
+**Soft Skills:**  
+Problem Solving, Cross-functional Collaboration, Adaptability, Client-Focused Communication  
+
 
 ---
 
