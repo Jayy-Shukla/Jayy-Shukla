@@ -46,5 +46,3 @@
 [![Email](https://img.shields.io/badge/Email-Red?style=for-the-badge\&logo=gmail)](mailto:shuklajay529@gmail.com)
 
 ---
-
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
