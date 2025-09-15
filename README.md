@@ -32,6 +32,7 @@
 # 🌟 Featured Projects
 
 🔹 [**E-Commerce Recommendation System**](https://github.com/Jayy-Shukla/E-Commerce-Recommendation-System) – Built an E-Commerce Recommendation System in Jupyter Notebook using Python, Pandas, NumPy, and machine learning algorithms on a Kaggle dataset, with step-by-step workflow documentation.
+
 🔹 [**SMS Spam Collection System Using NLP**](#) – React + Node + MongoDB app with authentication
 🔹 [**Amazon Product Web Scrapping and Visualization**](#) – Automated ETL pipeline with AWS integration
 
