@@ -11,28 +11,21 @@
 
 ---
 
-### 🛠️ Technical Skills  
+# ⚡ Tech Stack  
 
-**Programming & Frameworks:**  
-Java, Spring Framework, Hibernate, Python, C#, JavaScript, TypeScript, Kotlin, PHP, SQL, LangChain  
+**Languages & Frameworks:** `Java` · `Spring` · `Hibernate` · `Python` · `C#` · `JavaScript` · `TypeScript` · `Kotlin` · `PHP` · `SQL` · `LangChain`  
 
-**UI & Frontend Development:**  
-Next.js, React Native, Responsive Design, HTML5, CSS3, Bootstrap  
+**Frontend & UI:** `Next.js` · `React Native` · `HTML5` · `CSS3` · `Bootstrap` · `Responsive Design`  
 
-**Mobile Development:**  
-Flutter (cross-platform mobile apps)  
+**Mobile:** `Flutter`  
 
-**Workflow & CI/CD Tools:**  
-Git, GitFlow, Jenkins, GitHub Actions, Confluence, JIRA, Agile/SCRUM  
+**Cloud & DevOps:** `AWS (S3, Lambda, Glue, Athena, API Gateway)` · `Azure (Databricks)` · `Docker` · `Kubernetes` · `CI/CD Automation`  
 
-**Cloud & DevOps:**  
-AWS (S3, Lambda, Glue, Athena, API Gateway), Azure (Databricks), Docker, Kubernetes, CI/CD Automation  
+**Workflow & Tools:** `Git` · `GitFlow` · `Jenkins` · `GitHub Actions` · `Confluence` · `JIRA` · `Agile/SCRUM`  
 
-**Dashboarding & Visualization:**  
-Power BI, Power Apps, Power Automate, Tableau  
+**Dashboards & Visualization:** `Power BI` · `Power Apps` · `Power Automate` · `Tableau`  
 
-**Soft Skills:**  
-Problem Solving, Cross-functional Collaboration, Adaptability, Client-Focused Communication  
+**Soft Skills:** `Problem Solving` · `Cross-functional Collaboration` · `Adaptability` · `Client-Focused Communication`  
 
 
 ---
