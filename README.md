@@ -47,7 +47,7 @@
 
 # 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://https://www.linkedin.com/in/jay-shukla-53b6a41b4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/jay-shukla-53b6a41b4/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=react)](https://jayy-shukla.github.io/)
 [![Email](https://img.shields.io/badge/Email-Red?style=for-the-badge\&logo=gmail)](mailto:shuklajay529@gmail.com)
 
