@@ -17,7 +17,7 @@
 
 **Frontend & UI:** `Next.js` · `React Native` · `HTML5` · `CSS3` · `Bootstrap` · `Responsive Design`  
 
-**Mobile:** `Flutter`  
+**Mobile Developement:** `Flutter`  
 
 **Cloud & DevOps:** `AWS (S3, Lambda, Glue, Athena, API Gateway)` · `Azure (Databricks)` · `Docker` · `Kubernetes` · `CI/CD Automation`  
 
