@@ -33,7 +33,8 @@
 
 🔹 [**E-Commerce Recommendation System**](https://github.com/Jayy-Shukla/E-Commerce-Recommendation-System) – Built an E-Commerce Recommendation System in Jupyter Notebook using Python, Pandas, NumPy, and machine learning algorithms on a Kaggle dataset, with step-by-step workflow documentation.
 
-🔹 [**SMS Spam Collection System Using NLP**](#) – React + Node + MongoDB app with authentication
+🔹 [**SMS Spam Collection System Using NLP**](#) – Built an SMS Spam Classification System in Jupyter Notebook using Python, Pandas, NumPy, NLTK, and Scikit-learn, leveraging TensorFlow/Keras with LSTM architecture to train and evaluate models on a spam dataset.
+
 🔹 [**Amazon Product Web Scrapping and Visualization**](#) – Automated ETL pipeline with AWS integration
 
 ---
