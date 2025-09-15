@@ -35,7 +35,7 @@
 
 🔹 [**SMS Spam Collection System Using NLP**](#) – Built an SMS Spam Classification System in Jupyter Notebook using Python, Pandas, NumPy, NLTK, and Scikit-learn, leveraging TensorFlow/Keras with LSTM architecture to train and evaluate models on a spam dataset.
 
-🔹 [**Amazon Product Web Scrapping and Visualization**](#) – Automated ETL pipeline with AWS integration
+🔹 [**Amazon Product Web Scrapping and Visualization**](#) – Developed a Scrapy spider in Python to collect Amazon laptop product data, cleaned datasets with Pandas, and created rich visual analyses in Matplotlib and Seaborn in a Jupyter Notebook.
 
 ---
 
